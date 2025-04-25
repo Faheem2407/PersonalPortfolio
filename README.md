@@ -39,8 +39,6 @@ Feel free to connect with me!
 
 - 📧 Email: fahim.example@email.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/faheem2407/](#)
-- 🌐 Portfolio Website: [https://faheem2407.github.io/portfolio/](#) *(replace with your live portfolio URL)*
+- 🌐 Portfolio Website: [https://faheem2407.github.io/portfolio/](#)
 
 ---
-
-
